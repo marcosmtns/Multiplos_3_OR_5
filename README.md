@@ -1,2 +1,3 @@
 # Multiplos_3_OR_5
-Para resolver esse problema, 
+Para resolver esse problema, primeiramente eu criei uma lista vazia para receber os números e uma variável "soma" para armazenar o somatório desses valores.
+Criei um laço de repetição para percorrer por todos os números entre 1 e 1000. Depois de criado, para selecionar os números que são múltiplos de 3 ou 5, eu utilizei o método de calcular o resto da divisão do número percorrido pelo número 3 ou 5. Caso, nesta verificação, o resto da divisão seja igual a zero, demonstrará que o número é um múltiplo. Dessa forma, se o número percorrido entrar nessa condição, ele será adicionado à lista e somado ao somatório de todos esses valores que se enquadrem nessa condição.
