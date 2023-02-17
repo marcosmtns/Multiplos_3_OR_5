@@ -1,2 +1,2 @@
 # Multiplos_3_OR_5
-Problema Lógico.
+Para resolver esse problema, 
